@@ -1,0 +1,17 @@
+{
+    "name": "Extension Name",
+    "version": "1.0.0",
+    "description": "This makes the font bigger",
+    "manifest_version": 3,
+    "action": {},
+    "background":{"service_worker": "scripts/background.js"},
+    "permissions": ["activeTab", "scripting"],
+    "icons": {
+        "16": "images/icon-16.png",
+        "32": "images/icon-32.png",
+        "48": "images/icon-48.png",
+        "128": "images/icon-128.png"
+      }
+}
+  
+  
