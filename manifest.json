@@ -1,7 +1,7 @@
 {
-    "name": "Extension Name",
+    "name": "Nosto Debug Toolbar Opener",
     "version": "1.0.0",
-    "description": "This makes the font bigger",
+    "description": "Nosto Debug Toolbar Opener, opens debug toolbar in single click.",
     "manifest_version": 3,
     "action": {},
     "background":{"service_worker": "scripts/background.js"},
